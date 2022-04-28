@@ -3,10 +3,10 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.matsim.vsp</groupId>
-	<artifactId>vsp-playgrounds</artifactId>
+	<artifactId>vsp-playgrounds-kturner</artifactId>
 	<packaging>pom</packaging>
 	<version>14.0-SNAPSHOT</version>
-	<name>VSP-Playgrounds</name>
+	<name>VSP-Playgrounds-kturner</name>
 
 	<scm>
 		<url>https://github.com/matsim-vsp/vsp-playgrounds.git</url>
@@ -155,18 +155,7 @@
 	</build>
 
 	<modules>
-		<module>dziemke</module>
-		<module>gleich</module>
-		<module>gunnar</module>
-		<module>ikaddoura</module>
-		<module>kai</module>
-		<module>kairuns</module>
 		<module>kturner</module>
-		<module>lu</module>
-		<module>stockholm</module>
-		<module>tthunig</module>
-		<module>vspshk</module>
-		<module>vsptelematics</module>
 	</modules>
 
 	<dependencies>
