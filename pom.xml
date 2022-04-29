@@ -55,20 +55,12 @@
 		<!--<url>http://matsim.org/m2repo</url>-->
 		<!--</repository>-->
 		<repository>
-			<id>ch.sbb</id>
-			<url>https://schweizerischebundesbahnen.bintray.com/simba.mvn</url>
-		</repository>
-		<repository>
 			<id>topobyte</id>
 			<url>https://mvn.topobyte.de/</url>
 		</repository>
 		<repository>
 			<id>slimjars</id>
 			<url>http://mvn.slimjars.com/</url>
-		</repository>
-		<repository>
-			<id>jsprit-releases</id>
-			<url>https://github.com/jsprit/mvn-rep/raw/master/releases</url>
 		</repository>
 	</repositories>
 
